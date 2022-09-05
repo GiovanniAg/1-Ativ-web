@@ -1,0 +1,13 @@
+body {
+    background-size: cover;
+    background-image: url('./Imagens/sunflower_field.jpg');
+    background-color: #111222;
+  }
+  
+  h1 {
+    font-family: 'Raleway', serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 0);
+    border: 2px solid rgb(69, 80, 234);
+  }

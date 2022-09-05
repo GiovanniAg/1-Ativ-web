@@ -1,1 +1,1 @@
-Este é um projeto simples em HTML para a disciplica de Computação Web Mobile
+Este é o repositório da disciplina de web mobile da universidade catolica de pernambuco
